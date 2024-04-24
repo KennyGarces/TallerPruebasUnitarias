@@ -1,7 +1,7 @@
 
 import { n, number, notTrue, notFalse } from './multi';
 
-// Pruebas unitarias para la función arrayContainsValue
+// Pruebas unitarias para las variables
 describe('Pruebas unitarias para las variables', () => {
     
     test('Probar que \'n\' es null', () => {
